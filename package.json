@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "@ant-design/flowchart": "latest",
-    "@ant-design/icons": "5.0.1",
+    "@ant-design/icons": "^4.6.0",
     "@antv/xflow-extension": "1.0.54",
-    "antd": "5.3.2",
+    "antd": "^4.6.3",
     "lodash": "4.17.21",
     "react": "latest",
     "react-dom": "latest"
