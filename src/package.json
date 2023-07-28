@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@ant-design/flowchart": "latest",
+    "@ant-design/icons": "5.0.1",
+    "@antv/xflow-extension": "1.0.54",
+    "antd": "5.3.2",
+    "lodash": "4.17.21",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "main": "index.js"
+}
